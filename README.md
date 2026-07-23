@@ -17,7 +17,7 @@ fusion, an LSTM, and an attention mechanism.
 - `42.xlsx`: de-identified statistical data for the sustained-pinch cohort. The analysis reported in the manuscript uses 40 eligible participants.
 - `fused_features_32sub_3s_60ch.npy`: 60-channel DPMS-CNN feature matrix for the 3 s explosive-pinch task.
 - `fused_features_60ch.npy`: 60-channel DPMS-CNN feature matrix for the 10 s sustained-pinch task.
-- `Experiment20260721.rar`: raw measurement records and photographic evidence from the pinch-force acquisition system validation performed by five experimenters. The archive includes the loading setup, AIGU NK-100 reference readings, displayed system readings, and indoor temperature and relative-humidity records. It is available from [Baidu Netdisk](https://pan.baidu.com/s/1n7qFFSUtuZmww3TbDCV6Pg) using access code `we5v`.
+- `Experiment20260721.rar`: raw measurement records and photographic evidence from the pinch-force acquisition system validation performed by five experimenters. The archive includes the loading setup, AIGU NK-100 reference readings, displayed system readings, and indoor temperature and relative-humidity records. It is available from [Baidu Netdisk](https://pan.baidu.com/s/1n7qFFSUtuZmww3TbDCV6Pg).The access code requires authorization due to medical ethics considerations.
 
 The `.npy` files contain derived feature representations and do not contain the
 original participant-level force recordings. Regenerate these files whenever
