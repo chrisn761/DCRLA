@@ -15,6 +15,9 @@ fusion, an LSTM, and an attention mechanism.
 
 - `32.xlsx`: de-identified statistical data for the 32-subject explosive-pinch cohort.
 - `42.xlsx`: de-identified statistical data for the sustained-pinch cohort. The analysis reported in the manuscript uses 40 eligible participants.
+- `Processed_3s_32Subjects.xlsx`: Raw data for the 3-second explosive-pinch cohort comprising 32 subjects.
+- `10sec-abnormal.xlsx`: Raw data for the 10-second sustained-pinch cohort of patients.
+- `10sec-normal.xlsx`: Raw data for the 10-second sustained-pinch cohort of healthy controls.
 - `fused_features_32sub_3s_60ch.npy`: 60-channel DPMS-CNN feature matrix for the 3 s explosive-pinch task.
 - `fused_features_60ch.npy`: 60-channel DPMS-CNN feature matrix for the 10 s sustained-pinch task.
 - `Experiment20260721.rar`: raw measurement records and photographic evidence from the pinch-force acquisition system validation performed by five experimenters. The archive includes the loading setup, AIGU NK-100 reference readings, displayed system readings, and indoor temperature and relative-humidity records. It is available from [Baidu Netdisk](https://pan.baidu.com/s/1n7qFFSUtuZmww3TbDCV6Pg).The access code requires authorization due to medical ethics considerations.
